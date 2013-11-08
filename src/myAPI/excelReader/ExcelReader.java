@@ -11,7 +11,7 @@ import org.jdom2.input.SAXBuilder;
 /**
  * The ExcelReader can read out specific informations of an Excel File.
  * </br> E.g. (Value of a cell, range, width, height, background color, etc....)
- * @author Burkard Döpfner
+ * @author B. Döpfner
  */
 public class ExcelReader {
     final String DIR_WORKSHEETS = File.separator + "xl" + File.separator + "worksheets" + File.separator;
